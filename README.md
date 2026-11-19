@@ -1,6 +1,6 @@
 
 
-Flappy online para dos jugadores en red. Combina la temática y la mecánica de Flappy con la idea cliente-servidor de *Pong*.
+Flappy online para dos jugadores en red. Combina la temática y la mecánica de Flappy con la idea cliente-servidor.
 
 Cómo ejecutar
 Requisitos: Python 3.10+ y `pygame` (solo para el cliente).
